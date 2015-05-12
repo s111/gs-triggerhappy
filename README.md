@@ -44,7 +44,7 @@ Now create this folder structure:
 ```sh
 triggerhappy/bin
 ```
-Copy ```game.json```, ```screenshots.png``` and the ```controller``` folder into the ```triggerhappy``` folder. Copy the ```target/natives``` folder into it too and rename it to ```lib```. Now copy the jar file in the ```target``` folder into the ```triggerhappy/bin``` folder and rename it to ```triggerhappy.jar```.
+Copy ```game.json```, ```screenshot.png``` and the ```controller``` folder into the ```triggerhappy``` folder. Copy the ```target/natives``` folder into it too and rename it to ```lib```. Now copy the jar file in the ```target``` folder into the ```triggerhappy/bin``` folder and rename it to ```triggerhappy.jar```.
 
 You should now have a folder named ```triggerhappy``` which looks something like this:
 ```
